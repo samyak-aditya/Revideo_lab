@@ -1,0 +1,10 @@
+export { default as introduction } from "./introduction?scene";
+export { default as policyCovers } from "./policyCovers?scene";
+export { default as unfortunateEvent } from "./unfortunateEvent?scene";
+export { default as educationGrant } from "./educationGrant?scene";
+export { default as claimProcess } from "./claimProcess?scene";
+export { default as claimRelated } from "./claimRelated?scene";
+export { default as typewriter } from "./typewriter?scene";
+export { default as notcovered } from "./notcovered?scene";
+export { default as payments } from "./payments?scene";
+export { default as bonus } from "./bonus?scene";
