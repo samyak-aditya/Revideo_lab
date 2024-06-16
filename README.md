@@ -37,18 +37,3 @@ The primary goal of this repository is to serve as a sandbox for experimenting w
 
 4. **Create and Share Prototypes**: Develop your video ideas, share them with friends, and gather feedback.
 
-## Contribution Guidelines
-
-We welcome contributions and feedback from everyone. Please follow these steps to contribute:
-
-1. **Fork the Repository**: Create a personal copy of the repository.
-2. **Create a New Branch**: Develop your feature or fix on a separate branch.
-3. **Submit a Pull Request**: Once your changes are ready, submit a pull request for review.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the description to better fit your project's specific needs and vision.
