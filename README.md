@@ -2,7 +2,7 @@
 
 # Revideo Lab
 
-**RevideoPrototypingLab** is a collaborative space dedicated to the iterative development and refinement of video content using the Revideo framework. Here, we prototype new video ideas, gather feedback from friends and collaborators, and continuously improve our creations.
+**Revideo Lab** is a collaborative space dedicated to the iterative development and refinement of video content using the Revideo framework. Here, we prototype new video ideas, gather feedback from friends and collaborators, and continuously improve our creations.
 
 ## Purpose
 
