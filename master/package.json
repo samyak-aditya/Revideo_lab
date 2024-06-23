@@ -1,0 +1,25 @@
+{
+  "name": "master",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "serve": "vite",
+    "build": "tsc && vite build",
+    "render": "tsc && node dist/render.js"
+  },
+  "dependencies": {
+    "@motion-canvas/core": "^3.16.0",
+    "@revideo/2d": "^0.4.2",
+    "@revideo/core": "^0.4.2",
+    "@revideo/ffmpeg": "^0.4.2",
+    "@revideo/renderer": "^0.4.2",
+    "@revideo/vite-plugin": "^0.4.2"
+  },
+  "devDependencies": {
+    "@revideo/cli": "^0.4.2",
+    "@revideo/ui": "^0.4.2",
+    "typescript": "^5.2.2",
+    "vite": "^4.5"
+  }
+}
